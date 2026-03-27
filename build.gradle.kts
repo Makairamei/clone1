@@ -40,8 +40,8 @@ apply(plugin = "com.lagradost.cloudstream3.gradle")
 
 cloudstream {  
     setRepo(System.getenv("GITHUB_REPOSITORY")  
-        ?: "https://github.com/phisher98/cloudstream-extensions-phisher")  
-    authors = listOf("Phisher98")  
+        ?: "https://github.com/Makairamei/clone1")  
+    authors = listOf("Makairamei")  
 }  
 
 android {  
